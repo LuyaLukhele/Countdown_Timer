@@ -1,6 +1,6 @@
 ## Countdown_Timer
 
-Countdown timer buitl while learning JavaScript, Html and CSS.
+Countdown timer built while learning JavaScript, Html and CSS.
 
 ## Deployed Project
 
